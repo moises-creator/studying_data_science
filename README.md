@@ -1,7 +1,7 @@
 # studying_data_science
 :sunny: Repositório voltado para estudos de Data Science
 
-## Boa noite pessoal, tudo bem com vocês? Espero que estejam bem curtindo a virada do ano!
+## Saudações pessoal, tudo bem com vocês? Espero que estejam bem curtindo a virada do ano!
 
 :hourglass: Bom, o ano está acabando e olhamos para trás e vemos o nosso progresso e conquistas adquiridas como se fosse um filme diante dos nossos olhos. Muitas coisas aconteceram, coisas boas e coisas ruins...
 
